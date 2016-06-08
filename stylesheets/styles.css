@@ -153,6 +153,10 @@ th {
   color:#444;
 }
 
+header a{
+  display: block;
+}
+
 img {
   max-width:100%;
 }
