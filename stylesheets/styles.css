@@ -89,6 +89,10 @@ h3, h4, h5, h6 {
   color:#494949;
 }
 
+h3:not(:first-child) {
+    padding-top: 25px;
+}
+
 h3{
  color: #1BAEA9;
 }
